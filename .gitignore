@@ -1,0 +1,10 @@
+*/dist/app
+*/dist/dijit
+*/dist/dojo
+*/dist/dojox
+*/dist/build-report.txt
+*.sublime-*
+*/src/dojo
+*/src/dijit
+*/src/dojox
+*/src/util
