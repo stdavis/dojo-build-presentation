@@ -3,8 +3,10 @@
 */dist/dojo
 */dist/dojox
 */dist/build-report.txt
+*/dist/esri
 *.sublime-*
 */src/dojo
 */src/dijit
 */src/dojox
 */src/util
+*/src/esri
