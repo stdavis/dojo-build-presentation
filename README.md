@@ -12,6 +12,7 @@ Video will be posted as soon as it's made available.
 
 ### To Run the Samples
 - `cd` to the sample directory and run `bower install`.
+- For `esri-example` run `slurp_esri_modules.sh` to get the `esri` package.
 - Run development version of the app by loading `src/index.html`.
 - Run `build.sh` to run the build.
 - Load `dist/index.html` to see the build version of the application.
