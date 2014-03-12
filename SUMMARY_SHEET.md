@@ -1,5 +1,6 @@
 ##Demystifying the Dojo Build System: Summary Sheet
 
+####[Presentation Slides](https://docs.google.com/presentation/d/1wOYGBwW5VSAo5M8G-sAVuAFh4gVSxQTC1xsPy9XKJPM/edit?usp=sharing)  
 Scott Davis - [Utah AGRC](http://gis.utah.gov)  
 [@ScottAGRC](https://twitter.com/scottagrc)
 
