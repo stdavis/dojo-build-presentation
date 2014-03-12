@@ -1,12 +1,24 @@
-Summary Sheet:
-Resources, tags & transformations - profile object
-Use app config and then profile everything else
-snover dojo boilerplate
-Three docs:
+##Demystifying the Dojo Build System: Summary Sheet
 
+#### Transform 
+The optimization that the DBS performs on your source files.
 
-  1. Dojo build reference page
+#### Tags 
+Controls which transform is applied to your source files.
 
-  2. Dojo tutorial
-  3. Site pen article
-  4. https://github.com/bryanforbes/generator-dojo
+#### Resources 
+Your source files.
+
+#### Profile Object
+Controls entire build system. Overlapping properties with Dojo Loader config. Use your app config first then fill in gaps with a `*.profile.js` file.
+
+#### Layer
+A single file consisting of multiple AMD modules concatenated together.
+
+### Resources
+- [Example code from presentation](https://github.com/stdavis/dojo-build-presentation/)
+- [Scott's Landmark Blog Post ;)](http://geospatialscott.blogspot.com/2013/09/the-esri-api-for-javascriptdojo-build.html)
+- [Colin Snover's dojo boilerplate](https://github.com/csnover/dojo-boilerplate/)
+- [Dojo Build reference page](http://dojotoolkit.org/reference-guide/1.9/build/buildSystem.html)
+- [Dojo Tutorial](http://dojotoolkit.org/documentation/tutorials/1.9/build/)
+- [SitePen Blog Post](http://www.sitepen.com/blog/2012/06/11/dgrid-and-dojo-nano-build/)
