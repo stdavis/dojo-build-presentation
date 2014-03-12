@@ -1,5 +1,8 @@
 ##Demystifying the Dojo Build System: Summary Sheet
 
+Scott Davis - [Utah AGRC](http://gis.utah.gov)  
+[@ScottAGRC](https://twitter.com/scottagrc)
+
 #### Transform 
 The optimization that the DBS performs on your source files.
 
